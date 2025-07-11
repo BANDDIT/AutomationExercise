@@ -18,10 +18,12 @@ It includes both **manual testing** and **automated testing using Selenium**, ba
 ## 🛠 Tools & Skills Demonstrated
 
 - **Selenium WebDriver** – Automation scripting  
+- **Postman** – API testing and validation  
 - **JIRA (simulated)** – Bug tracking and issue logging  
 - **Testmo** – Test case and result management  
-- **Test Reporting** – Manual & automated test reports 
-
+- **Test Reporting** – Manual & automated test reports  
+- **STLC Understanding** – Applied end-to-end phases
+  
 ---
 
 This project highlights my ability to plan, execute, and document testing activities across all STLC phases, with a strong focus on **clear and structured test reporting**.
