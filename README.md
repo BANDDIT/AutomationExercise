@@ -7,11 +7,11 @@ It includes both **manual testing** and **automated testing using Selenium**, ba
 
 ## 📂 Repository Structure
 
-- `requirement-analysis/` – Initial analysis & test requirements  
-- `test-plan/` – Strategy, scope, tools, and milestones  
-- `test-case-development/` – Manual test cases with expected & actual results  
-- `test-scripts-selenium/` – Selenium-based UI automation scripts  
-- `test-closure/` – Final summary, reporting, and evaluation  
+- `Requirement Analysis` – Initial analysis & test requirements  
+- `Test Plan` – Strategy, scope, tools, and milestones  
+- `Test Case Development/` – Manual test cases with expected & actual results  
+- `Script/` – Selenium-based UI automation scripts  
+- `Test Closure` – Final summary, reporting, and evaluation  
 
 ---
 
