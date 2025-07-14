@@ -19,7 +19,7 @@ It includes both **manual testing** and **automated testing using Selenium**, ba
 
 - **Selenium WebDriver** – Automation scripting  
 - **Postman** – API testing and validation  
-- **JIRA (simulated)** – Bug tracking and issue logging  
+- **JIRA (simulated)** – Bug tracking and issue reporting  
 - **Testmo** – Test case and result management  
 - **Test Reporting** – Manual & automated test reports  
 - **STLC Understanding** – Applied end-to-end phases
